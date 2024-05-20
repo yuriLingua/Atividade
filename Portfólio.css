@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+  
+}
+/*imagem de fundo*/
+body{
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+ 
+}
+/*Arquivos de texto da pagina*/
+a,
+a:link {
+    
+    color: #ffffff;
+}
+
+header{
+    text-align: center;
+    background-color:rgb(178, 198, 212);
+}
+nav {
+    background-color: black;
+    padding: 2%;
+    text-align: center;
+
+}
+
+.links_p {
+    width: 20%;
+    padding: 1%;
+    display: inline;
+}
+h2{
+    padding-top: 2%;
+    margin-top: 0%;
+    text-align: center;
+    background-color: antiquewhite;
+}
+/*link para meu trabalho*/
+.Meu{
+    position: absolute;
+    width: 20%;
+    top: 50%;
+    left: 40%;
+    background-color: rgb(236, 235, 238);
+    color: rgb(22, 6, 253);
+    border:inset #0a0a0ace;
+}
+.Meut{
+    position: absolute;
+    text-align: center;
+    left: 32%;
+    top: 40%;
+    background-color: rgb(236, 235, 238);
+    border:inset #0a0a0ace;
+    color: rgb(12, 12, 12);
+}

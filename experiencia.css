@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    background-image: url(https://www.unicesumar.edu.br/blog/wp-content/uploads/2020/02/unicesumar_unicesumaread_image_13.jpeg);
+}
+
+/*link das paginas*/
+a,
+a:link {
+
+    color: #ffffff;
+}
+
+/*titulo da pagina*/
+header {
+    text-align: center;
+    background-color: rgb(178, 198, 212);
+}
+
+nav {
+    background-color: black;
+    padding: 2%;
+    text-align: center;
+
+}
+
+/*Arquivos de texto da pagina*/
+.links_p {
+    width: 20%;
+    padding: 1%;
+    display: inline;
+}
+
+h2 {
+    padding-top: 2%;
+    margin-top: 0%;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.paragrafo {
+    padding-left: 1%;
+    margin-top: 4%;
+    margin-left: 28%;
+    width: 40%;
+color: rgb(0, 0, 0);
+    border: inset #0a0a0ace;
+    background-color: antiquewhite;
+}
+
+.paragrafo1 {
+    padding-left: 1%;
+    margin-top: 4%;
+    margin-left: 28%;
+    width: 40%;
+    border: inset #0a0a0ace;
+    background-color: antiquewhite;
+}
+
+.p1 {
+    padding-left: 1%;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+/*imagen*/
+.eletrica {
+    position: absolute;
+    top: 26%;
+    left: 70%;
+    width: 20%;
+}
+
+.pintura {
+    position: absolute;
+    top: 26%;
+    width: 60%;
+}
+
+.pintado2 {
+    position: absolute;
+    left: 0%;
+    top: 100%;
+    width: 40%;
+}
+
+img {
+    width: 40%;
+    width: left 0%;
+    border: inset #0a0a0ace;
+}

@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+  
+}
+body{
+    background-color: rgb(224, 220, 220);
+}
+a,
+a:link {
+    
+    color: #ffffff;
+}
+
+header{
+    text-align: center;
+    background-color:rgb(178, 198, 212);
+}
+nav{
+    background-color:black;
+    padding:2%;
+    text-align: center;
+    
+}
+
+
+.links_p{
+    width: 20%;
+    padding: 1%;
+    display: inline;
+}
+.perfil{
+    position:absolute;
+    top: 14%;
+    right:2%;
+    width: 35%;
+    height: 35%;
+    border-radius: 50%;
+    
+}
+.submit{
+    color: #ffffff;
+}
+.login{
+    position: relative;   
+    align-content: center;
+    text-align: center;
+    padding-top: 8%; 
+    border: inset rgb(0,0,0);
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+ 
+}
+
+input{
+    color: aqua;
+    border: inset rgb(0, 0, 0);
+}
+.Recado{
+    position:absolute;
+    top: 50%;
+    left: 5%;
+    padding-bottom: 2%;
+    
+}
+textarea{
+    border: inset burlywood;
+}
+.Enviar{
+    position: absolute;
+    color: #ffffff;
+    left: 210%;
+    top: 0%;
+}
+h4{
+    color: bisque;
+}
+.Info{
+    border: inset rgb(0, 0, 0);
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+ 
+}
